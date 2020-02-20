@@ -1,0 +1,5 @@
+owner: desarrollo2-web
+repo: prueba2
+provider: github
+token: b2cd15e1725081b6e0cc0519419c3a562ec952b9
+updaterCacheDirName: electron-auto-update-example-updater

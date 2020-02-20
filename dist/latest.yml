@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: electron-auto-update-example-Setup-1.0.0.exe
+    sha512: nvXKROWicIR8LQW2PanXqskuDx06UfDQOjIIBLHaEmQguy0PxQMrc0zvW6MuKXbUxTdftheiEQAPogvGWSCHHQ==
+    size: 50070104
+path: electron-auto-update-example-Setup-1.0.0.exe
+sha512: nvXKROWicIR8LQW2PanXqskuDx06UfDQOjIIBLHaEmQguy0PxQMrc0zvW6MuKXbUxTdftheiEQAPogvGWSCHHQ==
+releaseDate: '2020-02-20T18:04:09.605Z'
